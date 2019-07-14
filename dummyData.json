@@ -1,0 +1,154 @@
+[
+  {
+    "memberId": "00001",
+    "name": "Maduraimani S",
+    "gender": "Male",
+    "dob": "25-12-1950",
+    "married": true,
+    "doa": "",
+    "spouse": "00002",
+    "children": ["00003", "00004", "00005", "00006"],
+    "alive": false,
+    "dae": "13-05-1997",
+    "phone": [],
+    "permanentaddress": {},
+    "communicationaddress": {},
+    "occupation": "Owner, Mookambigai Agencies, Aranthangi",
+    "education": null
+  },
+  {
+    "memberId": "00002",
+    "name": "Ezhilarasi M",
+    "gender": "Female",
+    "dob": "24-11-1954",
+    "married": true,
+    "doa": "",
+    "spouse": "00001",
+    "children": ["00003", "00004", "00005", "00006"],
+    "alive": true,
+    "dae": "",
+    "phone": ["9095946458"],
+    "permanentaddress": {
+      "careof": "Ezhilarasi M",
+      "address": "35/25, Kallulane street",
+      "city": "Aranthangi",
+      "pincode": 614616
+    },
+    "communicationaddress": {
+      "careof": "Ezhilarasi M",
+      "address": "SF2, C-299A, Royal Apartment, 10-B Thillainagar west",
+      "city": "Trichy",
+      "pincode": 620018
+    },
+    "occupation": "Owner, Ezhil Chitfunds",
+    "education": null
+  },
+  {
+    "memberId": "00003",
+    "name": "Subramani M",
+    "gender": "Male",
+    "dob": "16-06-1980",
+    "married": true,
+    "doa": "",
+    "spouse": "00007",
+    "children": ["00011", "00012"],
+    "alive": true,
+    "dae": "",
+    "phone": ["9742129204", "9677480084"],
+    "permanentaddress": {
+      "careof": "Ezhilarasi M",
+      "address": "35/25, Kallulane street",
+      "city": "Aranthangi",
+      "pincode": 614616
+    },
+    "communicationaddress": {
+      "careof": "Subramani M",
+      "address": "SF2, C-299A, Royal Apartment, 10-B Thillainagar west",
+      "city": "Trichy",
+      "pincode": 620018
+    },
+    "occupation": "Technical Manager, Wipro Technologies, Chennai",
+    "education": "MBA"
+  },
+  {
+    "memberId": "00004",
+    "name": "Veeramuthu M",
+    "gender": "Male",
+    "dob": "16-06-1982",
+    "married": true,
+    "doa": "",
+    "spouse": "00008",
+    "children": ["00013"],
+    "alive": true,
+    "dae": "",
+    "phone": ["9663330703"],
+    "permanentaddress": {
+      "careof": "Ezhilarasi M",
+      "address": "35/25, Kallulane street",
+      "city": "Aranthangi",
+      "pincode": 614616
+    },
+    "communicationaddress": {
+      "careof": "Veeramuthu M",
+      "address": "Gangai Amman Kovil Street, Vadapalani",
+      "city": "Chennai",
+      "pincode": 600045
+    },
+    "occupation": "Technical Manager, Flextronic Private Limited, Chennai",
+    "education": "MBA"
+  },
+  {
+    "memberId": "00005",
+    "name": "Vijayakumar M",
+    "gender": "Male",
+    "dob": "16-01-1984",
+    "married": true,
+    "doa": "",
+    "spouse": "00009",
+    "children": ["00014", "00015"],
+    "alive": true,
+    "dae": "",
+    "phone": ["9965788283"],
+    "permanentaddress": {
+      "careof": "Ezhilarasi M",
+      "address": "35/25, Kallulane street",
+      "city": "Aranthangi",
+      "pincode": 614616
+    },
+    "communicationaddress": {
+      "careof": "Vijayakumar M",
+      "address": "Yoga Complex, Ezhil Nagar",
+      "city": "Aranthangi",
+      "pincode": 614616
+    },
+    "occupation": "Finance Manager, Ganesh Chit Funds, Aranthangi",
+    "education": null
+  },
+  {
+    "memberId": "00006",
+    "name": "Dinesh M",
+    "gender": "Male",
+    "dob": "31-08-1988",
+    "married": true,
+    "doa": "26-06-2017",
+    "spouse": "00010",
+    "children": [],
+    "alive": true,
+    "dae": "",
+    "phone": ["8015079543"],
+    "permanentaddress": {
+      "careof": "Ezhilarasi M",
+      "address": "35/25, Kallulane street",
+      "city": "Aranthangi",
+      "pincode": 614616
+    },
+    "communicationaddress": {
+      "careof": "Dinesh M",
+      "address": "E101, Radiance Mercury Apartment, Gandhi Nagar Society Road, Perumbakkam",
+      "city": "Chennai",
+      "pincode": 600100
+    },
+    "occupation": "Team Lead, RiskSense Private Limited, Chennai",
+    "education": "MBA"
+  }
+]
